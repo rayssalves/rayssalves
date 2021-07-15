@@ -1,4 +1,4 @@
-### Hello there, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there 🌞, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Connect with me 🌱
 <a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/">
   <img align="left" alt="rayssalves's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -15,7 +15,7 @@
 - ✨ My main focus is in front-end development 
 - 🌱 I’m currently learning everything and loving it
 - 💼 Open to work and ready to learn
-- 💖 I love going to the gym, games, being outside and enjoying life
+- 💖 I love nature, going to the gym, games, being outside and enjoying life
 
 ### Languages and Tools:
 
