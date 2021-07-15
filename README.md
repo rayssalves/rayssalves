@@ -28,7 +28,10 @@
 <br />
 <br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssalves&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssalves&layout=compact)](https://github.com/rayssalves/github-readme-stats)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssalves&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
 
 
 📊 **this week I spent my time on:**
