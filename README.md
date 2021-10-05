@@ -1,7 +1,7 @@
 ### Hello there, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/" target="_blank">
-  <img align="left" alt="rayssalves's LinkedIN" width="22px" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+<a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/">
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rayssalves.rayssalves)
