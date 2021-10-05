@@ -5,7 +5,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rayssalves.rayssalves)
-
 <br />
 
 ## I'm a curious self learner developer in a journey for my first job in web development 🚀
@@ -37,4 +36,4 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssalves&layout=compact theme=dracula)](https://github.com/rayssalves/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssalves&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssalves&layout=dracula&compact)](https://github.com/rayssalves/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssalves&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
