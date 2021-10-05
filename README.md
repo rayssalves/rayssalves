@@ -3,14 +3,11 @@
 <a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/" target="_blank">
   <img align="left" alt="rayssalves's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
 
 ## I'm a curious self learner developer in a journey for my first job in web development 🚀
 
-## 💬 Want to get in touch?, [email](mailto:rayssa.a.vieira@outlook.com) <a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/" target="_blank">
-
-<img align="left" alt="rayssalves's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 😃
+## 💬 Want to get in touch?, [email](mailto:rayssa.a.vieira@outlook.com) 😃
 
 - ✨ My main focus is in front-end development
 - 🌱 I’m currently learning everything and loving it
