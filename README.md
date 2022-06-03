@@ -1,4 +1,4 @@
-<h1> Hello there, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hello there, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 </h1>
 <a href="https://www.linkedin.com/in/rayssa-alves-vieira-a61319169/" target="_blank">
   <img align="left" alt="rayssalves's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
