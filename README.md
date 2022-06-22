@@ -5,7 +5,7 @@
 </a>
 <br />
 
-## I'm a curious self learner developer in a journey for my first job in web development 🚀
+## I'm a curious developer recently graduated from Codaisseur in a journey for my first job in web development 🚀
 
 ## 💬 Want to get in touch?, [email](mailto:rayssa.a.vieira@outlook.com) 😃
 
