@@ -26,6 +26,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize&logoColor=blue"/>
 
 
 
